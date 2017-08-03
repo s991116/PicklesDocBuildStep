@@ -2,7 +2,7 @@
     "manifestVersion": 1,
     "id": "PicklesDoc",
     "name": "Pickles Document Generator",
-    "version": "0.0.1",
+    "version": "0.0.4",
     "publisher": "philipjuhl",
     "targets": [
         {
@@ -18,7 +18,7 @@
     },
     "files": [
         {
-            "path": "buildtask"
+            "path": "scripts"
         }
     ],
     "contributions": [
@@ -29,7 +29,7 @@
                 "ms.vss-distributed-task.tasks"
             ],
             "properties": {
-                "name": "buildtask"
+                "name": "scripts"
             }
         }
     ]

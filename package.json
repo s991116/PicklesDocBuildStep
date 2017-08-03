@@ -1,0 +1,25 @@
+{
+  "name": "picklesbuildstep",
+  "version": "1.0.0",
+  "description": "PicklesDoc wrapped as a VSTS custom buildstep",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/s991116/PicklesDocBuildStep.git"
+  },
+  "keywords": [
+    "build"
+  ],
+  "author": "Philip Juhl",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/s991116/PicklesDocBuildStep/issues"
+  },
+  "homepage": "https://github.com/s991116/PicklesDocBuildStep#readme",
+  "devDependencies": {
+    "vso-task-lib": "^0.5.5"
+  }
+}
