@@ -23,7 +23,7 @@
         {
             "name": "samplepathinput",
             "type": "filePath",
-            "label": "Sample Path",
+            "label": "Sample Path Test",
             "defaultValue": "",
             "required": true,
             "helpMarkDown": "A sample path which is relative to root of repo if empty"
@@ -49,6 +49,6 @@
     "execution": {
         "Node": {
             "target": "PicklesDoc.js"
-        }
+        }    
     }
 }
