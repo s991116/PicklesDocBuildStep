@@ -2,7 +2,7 @@
     "manifestVersion": 1,
     "id": "PicklesDoc",
     "name": "Pickles Document Generator",
-    "version": "0.0.9",
+    "version": "0.0.12",
     "publisher": "philipjuhl",
     "targets": [
         {

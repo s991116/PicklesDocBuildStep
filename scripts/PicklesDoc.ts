@@ -1,4 +1,3 @@
-import * as tl from 'vso-task-lib';
-import * as sh from 'shelljs';
-
+import tl = require('vsts-task-lib/task')
 tl.debug("Starting PicklesDoc build step");
+tl.getPathInput("featureDirectory", true, true);
